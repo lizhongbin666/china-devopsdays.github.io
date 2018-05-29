@@ -1,4 +1,4 @@
-# ChinaDevOpsDays.org网站
+# ChinaDevOpsDays.org网站的源代码分支
 
 这里是ChinaDevOpsDays.org网站的源代码库。本网站希望能成为中国DevOps社区的门户网站和知识库。
 
@@ -7,8 +7,6 @@
 中国DevOpsDays社区志愿者持续招募中，点击下面的了解报名，或者扫码报名。
 
 http://devopsdays-volunteer.mikecrm.com/RuTI3X9
-
-![二维码](./RuTI3X9.png "扫码报名")
 
 
 本网站基于以下，但仅限于以下技术：
